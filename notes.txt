@@ -1,2 +1,5 @@
 venv\Scripts\activate
 https://discountingcashflows.com/company/AAPL/transcripts/
+
+docker build -t defeatbeta .
+docker run --rm defeatbeta
